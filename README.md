@@ -1,6 +1,6 @@
 # Document-recognition
 ## 工程文档识别
-
+### Jupyter notebook+Python3
 1. SIFT矫正
 2. 连通域分析
 3. 图像做差
