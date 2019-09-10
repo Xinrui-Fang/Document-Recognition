@@ -1,6 +1,6 @@
 # Document-Recognition 工程文档识别
 ### Jupyter notebook+Python3
-## Implement Logic
+## Work Flow
 1. SIFT Correct
 2. Connected Domain Analysis
 3. Image Deviation
